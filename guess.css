@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(162, 162, 221) ;
+}
+
+#container {
+    background-color: rgb(162, 162, 221);
+    height: 948px;
+    width: 480px;   
+}
+.rule{
+    width: 480px;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+h2{
+    text-align: center;
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-shadow: 2px 4px 4px white;
+}
+#show{
+    width: 398px;
+    height: 45px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(3, 3, 3);
+    padding-top: 15px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px white;
+    border: 2px solid white;
+    color: white;
+    
+}
+.hint{
+     width: 398px;
+    height: 45px;
+    background-color: black;
+    padding-top: 15px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 800px;
+    font-family: sans-serif;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px white;
+    border: 2px solid white;
+    color: white;
+}
+.input{
+    height: 50px;
+    width: 120px;
+    background-color: black;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 800px;
+    font-family: sans-serif;
+    
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 2px 4px white;
+    border: 2px solid white;
+    color: white;
+
+}
+.flex{
+    display: flex;
+}
+#myNumber{
+    margin-left: 10px;
+}
+h4{
+    padding-top: 10px;
+    font-weight: 700px;
+}
+.btn1{
+    height: 55px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 30px;
+    margin-left: 70px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 2px 4px white;
+    border: 2px solid white;
+    color: rgb(4, 4, 4);
+    background-color: rgb(71, 246, 77);
+    text-shadow: 1px 2px 4px white;
+}
+.btn2{
+    height: 55px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 45px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 2px 4px white;
+    border: 2px solid white;
+    color: rgb(4, 4, 4);
+    background-color: rgb(71, 246, 77);
+    text-shadow: 1px 2px 4px white;
+}
+.btn3{
+    height: 55px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 180px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 2px 4px white;
+    border: 2px solid white;
+    color: rgb(4, 4, 4);
+    background-color: rgb(71, 246, 77);
+    text-shadow: 1px 2px 4px white;
+}
+img{
+    height: 500px;
+    width: 400px;
+}
